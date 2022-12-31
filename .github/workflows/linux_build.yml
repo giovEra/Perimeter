@@ -3,7 +3,6 @@ name: Linux Build
 on:
   push:
   pull_request:
-  dispatch:
 
 jobs:
   build:
